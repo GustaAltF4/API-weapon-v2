@@ -1,0 +1,10 @@
+com\api\souls\exception\FileNotFoundException.class
+com\api\souls\SoulsApplication.class
+com\api\souls\repository\WpnRepository.class
+com\api\souls\service\WpnService.class
+com\api\souls\config\OpenAPIConfig.class
+com\api\souls\controller\HomeController.class
+com\api\souls\controller\WeaponController.class
+com\api\souls\config\CorsConfig.class
+com\api\souls\config\DataLoader.class
+com\api\souls\entity\Weapon.class
