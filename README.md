@@ -10,6 +10,9 @@ Funciona correctamente, excepto que, al estar desplegada en la versión gratuita
 
 También cuenta con una interfaz en **React** para probar los endpoints de forma más visual:  
 🔗 [https://weapon-api-ui.netlify.app/](https://weapon-api-ui.netlify.app/)
+📂 **Repositorio UI:**  
+[https://github.com/GustaAltF4/React-Practicas/tree/main/7-%20Weapon%20ui/weapon-ui](https://github.com/GustaAltF4/React-Practicas/tree/main/7-%20Weapon%20ui/weapon-ui)
+
 
 ---
 
@@ -41,5 +44,6 @@ Ejemplos de algunos endpoints implementados:
 ```http
   DELETE /weapons/del/id/{id}
 ```
+
 
 
