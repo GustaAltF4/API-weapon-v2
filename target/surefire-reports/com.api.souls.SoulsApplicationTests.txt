@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.api.souls.SoulsApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.887 s -- in com.api.souls.SoulsApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.688 s -- in com.api.souls.SoulsApplicationTests
